@@ -1,4 +1,4 @@
-# Flask2Docker - Simple counter site buildt on docker
+# Flask2Docker - Simple counter site built on docker
 
 ## Components
   - Jenkins run on GCE as Container - available on http://35.242.226.117:8080
